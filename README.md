@@ -1,5 +1,5 @@
 # CRUD
-## The proyect is deployed on -> https://crud-personal-4bf40.web.app/
+## This proyect is deployed on -> https://crud-personal-4bf40.web.app/
 To do list / lista de tareas
 
 ## Español/Spanish:
