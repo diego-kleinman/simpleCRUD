@@ -1,5 +1,5 @@
 # CRUD
-## This proyect is hosted on -> https://crud-personal-4bf40.web.app/
+## Hosted on -> https://crud-personal-4bf40.web.app/
 To do list / lista de tareas
 
 ## Español/Spanish:
